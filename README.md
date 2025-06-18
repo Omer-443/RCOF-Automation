@@ -142,4 +142,4 @@ This project was completed as part of the **Computer Vision** course under our a
 Pull requests, suggestions, and issues are welcome!
 If you'd like to contribute or use this in research, feel free to reach out.
 
-```
+
