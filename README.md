@@ -133,7 +133,7 @@ This project is open-source under the MIT License.
 
 ## 🙌 Acknowledgements
 
-This project was completed as part of the **Machine Learning and Data Mining** course under our academic program. Special thanks to our instructors and peers for their valuable feedback and support!
+This project was completed as part of the **Computer Vision** course under our academic program. Special thanks to our instructors and peers for their valuable feedback and support!
 
 ---
 
